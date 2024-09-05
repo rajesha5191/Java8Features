@@ -6,5 +6,6 @@ public class practice3 {
         System.out.println("Modifi the file");
         System.out.println("add to git");
         System.out.println("push from IDE");
+        System.out.println("java basics changes checks");
     }
 }
